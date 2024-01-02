@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658816945423",
+    "project_id": "tripswipe-35865",
+    "storage_bucket": "tripswipe-35865.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658816945423:android:8d5a36864c6dfec925c27a",
+        "android_client_info": {
+          "package_name": "com.example.tripswipe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe29vBB6XUL7ApS5JOMbrp7eulSgdxuSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
